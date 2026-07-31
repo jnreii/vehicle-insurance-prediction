@@ -2,7 +2,7 @@
 
 A Streamlit app that predicts whether an existing health insurance customer is likely to be interested in vehicle insurance, so marketing teams can focus outreach on the customers most likely to say yes.
 
-**Live app:** _[paste your Streamlit link here after deploying]_
+**Live app:** (https://vehicle-insurance-prediction-6xip7eynikmvuh6x4o86ky.streamlit.app/)
 
 ## Business Problem
 
