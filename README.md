@@ -4,9 +4,13 @@ A Streamlit app that predicts whether an existing health insurance customer is l
 
 **Live app:** https://vehicle-insurance-prediction-6xip7eynikmvuh6x4o86ky.streamlit.app/
 
-![Single customer prediction](<img width="2738" height="1444" alt="Screenshot 2026-10-29 110447" src="https://github.com/user-attachments/assets/10927518-5c8e-4a7c-bac4-07cbc9012f3a" />)
-![Scoring a customer list](<img width="2720" height="1450" alt="Screenshot 2026-10-29 110516" src="https://github.com/user-attachments/assets/f58fafa0-30b0-48ab-aefe-c4bc613f4ba0" />)
+<img width="900" alt="Single customer prediction" src="https://github.com/user-attachments/assets/10927518-5c8e-4a7c-bac4-07cbc9012f3a" />
 
+*Single customer: enter a customer's details to get an interest score, a contact recommendation and the reasons behind it.*
+
+<img width="900" alt="Scoring a customer list" src="https://github.com/user-attachments/assets/f58fafa0-30b0-48ab-aefe-c4bc613f4ba0" />
+
+*Batch scoring: upload a customer list and get every row scored and ranked, ready to download for the call team.*
 ## Business Problem
 
 The company already has 381,109 health insurance customers and wants to cross-sell vehicle insurance to them. Calling all of them is expensive and time-consuming, and most of the people picking up the phone might not be interested anyway. Only around 12% are.
